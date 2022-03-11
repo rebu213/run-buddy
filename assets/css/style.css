@@ -115,4 +115,13 @@ section {
   border-color: #fce138;
   display: inline-block;
 }
+.intro p{
+    line-height: 1.7;
+    color: #39ab62;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+
 
